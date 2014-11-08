@@ -1,6 +1,8 @@
 # `$ whoami`
 Programmer. I code mostly in JS(/Node.js), Go, Python. I love making things go faster!
+
 I make and contribute to lots of open-source projects.
+
 And i enjoy building distributed systems.
 
 ## My projects
