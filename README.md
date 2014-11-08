@@ -1,4 +1,60 @@
-rlu-talk
+RLU-talk
 ========
 
-My talk about Node.js at RLUGroup
+# What???
+> Node.js is an open source, cross-platform runtime environment for server-side and networking applications.
+
+> Node.js provides an event-driven architecture and a non-blocking I/O API that optimizes an application's throughput and scalability. These technologies are commonly used for real-time applications.
+
+> Node.js uses the Google V8 JavaScript engine to execute code, and a large percentage of the basic modules are written in JavaScript. Node.js contains a built-in library to allow applications to act as a Web server without software such as Apache HTTP Server or IIS.
+
+
+# When you should use it:
+- Real-time applications
+- Web services
+- Single-page applications
+- Front-end API
+
+# Some of Node's major users:
+- Groupon
+- SAP
+- LinkedIn
+- Microsoft
+- Yahoo
+- Walmart
+- PayPal
+
+
+# Success Stories:
+- [LinkedIn Moved From Rails To Node: 27 Servers Cut And Up To 20x Faster](http://highscalability.com/blog/2012/10/4/linkedin-moved-from-rails-to-node-27-servers-cut-and-up-to-2.html)
+- [Eran Hammer was bored last black friday.](https://twitter.com/eranhammer/status/407784258170667009) 
+- Deploying code while 200,000,000 users were online! >=1% CPU utilization
+- **Groupon**: Page load times dropping by a whopping 50%, and reduced downtime! They were using Rails.
+
+
+# Demo Time
+[Twirc](https://github.com/lafikl/twirc)
+
+
+# License
+The MIT License (MIT)
+
+Copyright (c) 2014 Khalid Lafi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
