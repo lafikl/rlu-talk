@@ -1,7 +1,25 @@
 RLU-talk
 ========
 
-# What???
+# whoami
+Programmer. I code mostly in JS(/Node.js), Go, Python. I love making things go faster!
+I make and contribute to lots of open-source projects.
+And i enjoy building distributed systems.
+
+## My projects
+- [Steady.js](https://github.com/lafikl/steady.js)
+- [Fluent](https://github.com/lafikl/fluent)
+- [PerfBar](https://github.com/lafikl/perfbar)
+- [WPTProxy](https://github.com/lafikl/wptproxy)
+- [RWDPerf](https://github.com/lafikl/rwdperf)
+
+## Where you can find me:
+- Twitter: [@lafikl](twitter.com/lafikl)
+- Github: [@lafikl](github.com/lafikl)
+- Email: [lafi.khalid@gmail.com](mailto:lafi.khalid@gmail.com)
+
+
+# What is Node.js?
 > Node.js is an open source, cross-platform runtime environment for server-side and networking applications.
 
 > Node.js provides an event-driven architecture and a non-blocking I/O API that optimizes an application's throughput and scalability. These technologies are commonly used for real-time applications.
