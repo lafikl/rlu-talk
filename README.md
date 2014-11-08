@@ -12,8 +12,11 @@ RLU-talk
 # When you should use it:
 - Real-time applications
 - Web services
-- Single-page applications
-- Front-end API
+- [Isomorphic applications](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps)
+- [Front-end API](http://www.nczonline.net/blog/2013/10/07/node-js-and-the-new-web-front-end/)
+- Sharing code between the front-end and back-end
+- High concurrency and small cost.
+- Speed of development
 
 # Some of Node's major users:
 - Groupon
@@ -23,17 +26,31 @@ RLU-talk
 - Yahoo
 - Walmart
 - PayPal
+- Box
+- Airbnb
 
 
 # Success Stories:
 - [LinkedIn Moved From Rails To Node: 27 Servers Cut And Up To 20x Faster](http://highscalability.com/blog/2012/10/4/linkedin-moved-from-rails-to-node-27-servers-cut-and-up-to-2.html)
 - [Eran Hammer was bored last black friday.](https://twitter.com/eranhammer/status/407784258170667009) 
-- Deploying code while 200,000,000 users were online! >=1% CPU utilization
+- **Walmart**: Deploying code while 200,000,000 users were online! >=1% CPU utilization
 - **Groupon**: Page load times dropping by a whopping 50%, and reduced downtime! They were using Rails.
+- **PayPal**: 
+  - Built almost twice as fast with fewer people.
+  - Written in 33% fewer lines of code.
+  - Constructed with 40% fewer files.
+  - Double the requests per second vs. the Java application.
+  - 35% decrease in the average response time.
+
+  [Link](https://www.paypal-engineering.com/2013/11/22/node-js-at-paypal/)
 
 
 # Demo Time
 [Twirc](https://github.com/lafikl/twirc)
+
+
+# Closing remarks
+Don't limit yourself as a developer to one environment, be adventurous.
 
 
 # License
